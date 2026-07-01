@@ -227,3 +227,18 @@ Here’s how you can help:
 2. **Clone your fork locally**  
    ```bash
    git clone https://github.com/your-username/mole-finance-calculator.git
+## 📊 Loan Repayment Schedule
+
+This project includes a full repayment schedule and visual chart to help borrowers understand repayment growth across loan sizes and paydays.
+
+![Loan Repayment Chart](repayment-chart.png)
+
+- [View Full Repayment Schedule (DOCX)](RepaymentSchedule.docx)
+- [View License (MIT)](LICENSE.md)
+
+**Chart Explanation:**  
+The bars show how total repayment increases with loan size and number of paydays.  
+- Orange = 1 Payday (20%)  
+- Green = 2 Paydays (30%)  
+- Purple = 3 Paydays (40%)  
+- Red = 4 Paydays (50%)  
