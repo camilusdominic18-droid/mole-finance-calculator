@@ -90,3 +90,13 @@ Feel free to use, modify, and distribute with attribution.
 - Community of Aitape/Lumi District, Sandaun Province  
 - All contributors and supporters
 ✅ Next Step
+# 🏦 Mole Mini Finance Loan Calculator
+
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Repo Size](https://img.shields.io/github/repo-size/camilusdominic18-droid/mole-finance-calculator)
+![Last Commit](https://img.shields.io/github/last-commit/camilusdominic18-droid/mole-finance-calculator)
+![Issues](https://img.shields.io/github/issues/camilusdominic18-droid/mole-finance-calculator)
+![Stars](https://img.shields.io/github/stars/camilusdominic18-droid/mole-finance-calculator?style=social)
+
+Helping Hand is a Caring Hand ✨
