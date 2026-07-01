@@ -213,3 +213,17 @@ This project is made possible thanks to:
 - **You, the users** — for testing and improving the calculator  
 
 💡 If you’d like to support Mole Mini Finance, please star ⭐ this repo or share it with others in your community.
+# Contributing to Mole Mini Finance Loan Calculator
+
+We welcome contributions to improve the Mole Mini Finance Loan Calculator!  
+Here’s how you can help:
+
+---
+
+## 🛠️ How to Contribute
+1. **Fork the repository**  
+   Click the “Fork” button at the top right of this page.
+
+2. **Clone your fork locally**  
+   ```bash
+   git clone https://github.com/your-username/mole-finance-calculator.git
